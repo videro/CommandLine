@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CBF5F70D4EDC8047BC75C25236002B0EA7F6B15B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CBF5F70D4EDC8047BC75C25236002B0EA7F6B15B" : 9223372036854775807,
+    "E8FBD23F842BAC783EFA666585FEDC326F9AA9F6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5F00CBB6-6BB0-46D4-97C7-04D3A1DC3DF4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CBF5F70D4EDC8047BC75C25236002B0EA7F6B15B" : "CommandLine\/",
+    "E8FBD23F842BAC783EFA666585FEDC326F9AA9F6" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CommandLineKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CommandLineKit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com\/videro\/CommandLine.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CBF5F70D4EDC8047BC75C25236002B0EA7F6B15B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:videro\/SMCKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E8FBD23F842BAC783EFA666585FEDC326F9AA9F6"
+    }
+  ]
+}
